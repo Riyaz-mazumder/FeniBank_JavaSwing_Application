@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Feni_Bank/src/DBOperation/commonDB.java</file>
+            <file>file:/E:/Feni_Bank/src/DBOperation/ManagerDB.java</file>
+            <file>file:/E:/Feni_Bank/src/Models/ClientBean.java</file>
+            <file>file:/E:/Feni_Bank/src/DBOperation/SavingsAccDB.java</file>
+            <file>file:/E:/Feni_Bank/src/Views/Account_Holder.java</file>
+            <file>file:/E:/Feni_Bank/src/DBOperation/AdminDB.java</file>
+            <file>file:/E:/Feni_Bank/src/Views/Admin.java</file>
+            <file>file:/E:/Feni_Bank/src/Views/Login.java</file>
+            <file>file:/E:/Feni_Bank/src/Views/Branceh.java</file>
+            <file>file:/E:/Feni_Bank/src/Models/CreateAccountBen.java</file>
+            <file>file:/E:/Feni_Bank/src/Views/Client.java</file>
+            <file>file:/E:/Feni_Bank/src/Models/sendMoneyModel.java</file>
+            <file>file:/E:/Feni_Bank/src/DBOperation/ClientsDB.java</file>
+            <file>file:/E:/Feni_Bank/src/Views/Branch_mannager.java</file>
+            <file>file:/E:/Feni_Bank/src/Views/AccountHolder.java</file>
+            <file>file:/E:/Feni_Bank/src/DBOperation/AccountHolderDB.java</file>
+        </group>
+    </open-files>
+</project-private>
